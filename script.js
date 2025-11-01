@@ -21,6 +21,8 @@ function calculateValue() {
   }
 }
 
+// Keyboard Support - user can enter input through keys
+
 document.addEventListener('keydown', function(event) {
   const key = event.key; 
 
