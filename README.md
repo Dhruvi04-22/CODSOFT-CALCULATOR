@@ -22,7 +22,7 @@ With added **keyboard support** and an **auto-scroll display feature**, this cal
 |-------------|----------|
 | **HTML5** | Structure of the calculator |
 | **CSS3 (Flexbox & Media Queries)** | Styling and responsive layout |
-| **JavaScript (ES6)** | Functional logic, event handling, and auto-scroll feature |
+| **JavaScript** | Functional logic, event handling, and auto-scroll feature |
 
 ---
 
@@ -41,8 +41,8 @@ Responsive-Calculator/
 ---
 
 ## 🔗 Live Preview
-🌐 **Live Demo:** [Check Calculator](https://dhruvi04-22.github.io/CODSOFT-CALCULATOR/)  
-💻 **GitHub Repository:** [Calculator](https://github.com/Dhruvi04-22/CODSOFT-CALCULATOR)
+🌐 **Live Demo:** [Check out Calculator](https://dhruvi04-22.github.io/CODSOFT-CALCULATOR/)  
+💻 **GitHub Repository:** [CodSoft Calculator](https://github.com/Dhruvi04-22/CODSOFT-CALCULATOR)
 
 ---
 
@@ -94,11 +94,11 @@ Through this project, I gained hands-on experience in:
 
 **Dhruvi Mistry**
 
-📧 [Email](mailto:damistry55@gmail.com)
+📧 Email: [Contact](mailto:damistry55@gmail.com)
 
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/dhruvimistry4/)
+🌐 LinkedIn Profile: [Dhruvi Mistry](https://www.linkedin.com/in/dhruvimistry4/)
 
-💼 [Portfolio Website](https://dhruvi04-22.github.io/CODSOFT-Portfolio/)
+💼 Portfolio Website: [View Portfolio](https://dhruvi04-22.github.io/CODSOFT-Portfolio/)
 
 ---
 
